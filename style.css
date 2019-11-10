@@ -17,7 +17,9 @@ body {
  ul{
      text-align: left;
  }
-
+img {
+    color:white;
+}
 
 /*page colors */
 #page1 {background: var(--page1-color)}
